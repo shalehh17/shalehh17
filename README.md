@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/shalehuddin-zaki">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:shalehuddinzaki578@gmail.com">
+  <a href="mailto:shalehuddinzaki84@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -51,5 +51,6 @@ A physics graduate and data science enthusiast with a solid analytical foundatio
 ---
 
 ### 📈 Get in Touch
+*   **Gmail:** [shalehuddinzaki84@gmail.com](mailto:shalehuddinzaki84@gmail.com)
 *   **Full Portfolio:** [https://bit.ly/MyPortofolio_project](https://bit.ly/MyPortofolio_project)
 *   **LinkedIn:** [linkedin.com/in/shalehuddin-zaki](https://www.linkedin.com/in/shalehuddin-zaki)
