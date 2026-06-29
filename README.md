@@ -55,11 +55,6 @@ A physics graduate and data science enthusiast with a solid analytical foundatio
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalehh17&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="shalehh17's stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalehh17&layout=compact&theme=radical" alt="shalehh17's top langs" />
-</p>
 
 ### 📈 Get in Touch
 *   **Gmail:** [shalehuddinzaki84@gmail.com](mailto:shalehuddinzaki84@gmail.com)
