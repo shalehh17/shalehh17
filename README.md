@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="profil-github.png" alt="Shalahuddin Zaki GitHub Profile" width="100%">
+</p>
+
 <h1 align="center">Hi, I'm Shalahuddin Zaki! 👋</h1>
 
 <p align="center">
